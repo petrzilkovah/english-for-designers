@@ -1,5 +1,5 @@
 # The art of *creating* and *understanding* instructions
-The goal of following warm-up exercise is to try and master using language (written word to be exact) for transferring a piece of information. Working in teams, everyone will write down instructions for a picture, so a different team would be able to recreate the picture just by following these instructions. Everyone will participate in creating instructions, as well as following instructions made by others. 
+The goal of the following warm-up exercise is to try and master using language (written word to be exact) for transferring a piece of information. Working in teams, everyone will write down instructions for a picture, so a different team would be able to recreate the picture just by following these instructions. Everyone will participate in creating instructions, as well as following instructions made by others. 
 ### the original instructions
 ![Composition x](https://scontent-prg1-1.xx.fbcdn.net/v/t1.15752-9/244421715_547073959922491_5443360833715984804_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=ae9488&_nc_ohc=hqbVBdb51d4AX80Hp2o&_nc_ht=scontent-prg1-1.xx&oh=d898cc0b52e716a12f51b620ddc8b060&oe=618A9438)
 ### *updated* instructions
