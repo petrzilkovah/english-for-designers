@@ -18,3 +18,5 @@ Preferably, the result would look like a clock with too many clock hands.
 ![Composition 2](https://jgagne.github.io/ajovt3-zs21-vskk/img/00-composition/02-comp.png)
 ### *result*
 It all went well because we are very smart kids. 
+
+![comp1](img/composition1)
