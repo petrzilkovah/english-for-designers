@@ -6,8 +6,9 @@
 
 description
 
-- [view presentation](img/)
-
+- [view presentation](img/portfolio-piece1)
+- [view presentation](img/portfolio-piece2)
+- [view presentation](gif/meow)
 ### Notes
 1.
 2.
