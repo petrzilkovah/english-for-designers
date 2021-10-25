@@ -11,7 +11,6 @@ Introducing a few of my favourite projects - which are not at all big and fancy,
 ![a gif with a cat falling of a platform, transforming into a fidget spinner](gif/meow.gif)
 
 ### Notes
-1. *electricity storage; myths in energetics; on developments in accumulation*
-Digital illustrations, which we use to promote podcast about energetics on instagram. Adobe Illustrator 
+1. *electricity storage; myths in energetics; on developments in accumulation* Digital illustrations, which we use to promote podcast about energetics on instagram. Adobe Illustrator 
 2. A series of worksheets for kids in an elementary school, dealing with multiple topics and subjects (advertisment, fact-checking information in media and so on). Adobe inDesign
 3. A short, simple animation of a cat, digitally hand drawn. Adobe Photoshop
