@@ -4,7 +4,7 @@
 
 ![title slide](img/presentation-title-slide.png)
 
-description
+Introducing a few of my favourite projects - which are not at all big and fancy, but it's stuff I enjoyed working on, as a person who likes various types of illustration and working with text in InDesign.
 
 ![illustrations for energetics podcast used on instagram](img/portfolio-piece1.png)
 ![three work sheets for elementary school students](img/portfolio-piece2.png)
