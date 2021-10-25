@@ -2,7 +2,7 @@
 
 ## Title
 
-![title slide](img/)
+![title slide](img/presentation-title-slide.png)
 
 description
 
