@@ -7,11 +7,8 @@
 Introducing a few of my favourite projects - which are not at all big and fancy, but it's stuff I enjoyed working on, as a person who likes various types of illustration and working with text in InDesign.
 
 - [View presentation](pdf/ajovt-impression.pdf)
-## 1 
-![illustrations for energetics podcast used on instagram](img/portfolio-piece1.png)
-## 2
-![three work sheets for elementary school students](img/portfolio-piece2.png)
-## 3
+
+## (actually playable) gif
 ![a gif with a cat falling of a platform, transforming into a fidget spinner](gif/meow.gif)
 
 ### Notes
