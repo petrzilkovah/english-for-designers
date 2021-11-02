@@ -9,14 +9,6 @@ That one sentence about me I need to figure out.
 
 ![photo of me](img/aboutness-img.jpg)
 ## my story
-I'm your average diversity-in-everything enjoyer. I like my coffee sugary *and* bitter, like my music and stories.
-
-I like to consume, create, combine and learn as much as I can. I lean towards lively design, driven to make things <s>pretty</s> work. 
-
-Experienced in making my own ways. Currently I'm on a journey to cultivate an unusual ordinary design. 
-
-_________________________
-**(og text)**
 
 I'm your average diversity-in-everything enjoyer. I like my coffee sugary and creamy, like my music, and I like my coffee bitter, also like my music. I like to consume, create, combine and learn as much as I can in the process. *Previous statement can apply to food and/or any media.* 
 
