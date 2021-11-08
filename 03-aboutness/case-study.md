@@ -1,4 +1,7 @@
 # Povstalec - VŠKK students magazine
+- (very busy) February 2020
+- Design of a whole magazine (from layout to type to cover to illustration)
+- Hana Petržílková
 ## Magazine making from 0 to 100 (or 50) in a month.
 This design project was completely accidental on my part. It concerns VŠKK students magazine (at the time I didn't even know we have a magazine). The editorial office lost the graphic designer and was now looking for a designer who would help them with the newest issue (VERY quickly). 
 
@@ -20,7 +23,7 @@ It took a bit of organizing to lay out all the articles and photos and set up ba
 When we concluded, that we wanted to use illustrations, I was thrilled. Finally something I know how to do. We chose a line art style of digital illustration, following our colour scheme, which played nicely with the mood of the magazine.
 
 ## week #4
-![Povstalec výtisk](img/)
+![Povstalec výtisk](img/povstalec4.png)
 The moment I finished designing, consulting and adjusting details, it was time for proofreading. Which brought more adjusting. Which brought more proofreading. And more adjusting... And when there was no more proofreading or adjusting, the work was done. Ready to be printed and distributed. 
 
 [The whole magazine to view](https://www.vskk.cz/cz/wp-content/uploads/sites/2/2020/04/povstalec1.final_.web_.pdf)
