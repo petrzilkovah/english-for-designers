@@ -4,7 +4,7 @@
 2. Had a breakdown 
 3. Bon apetit
 
-That one sentence about me I need to figure out.
+Hello, my name is Hana Petržílková and i do not know what to do.
 - [Case study]()
 
 ![photo of me](img/aboutness-img.jpg)
