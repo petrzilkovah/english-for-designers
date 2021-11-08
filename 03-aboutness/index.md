@@ -1,14 +1,18 @@
-# Hana Petržílková
 ## about me
-1. Tried to write a bio
-2. Had a breakdown 
-3. Bon apetit
 
-Hana Petržílková - a graphic designer striving to make things happen through determination and happy coincidences.
+
+### Hana Petržílková - a graphic designer striving to make things <br>happen through determination and happy coincidences.
+
 - [Povstalec case study](case-study.md)
 
 ![photo of me](img/mememe.gif)
+
+
+
 ## my story
+1. Tried to write a bio
+2. Had a breakdown 
+3. Bon apetit
 
 I'm your average diversity-in-everything enjoyer. I like my coffee sugary and creamy, like my music, and I like my coffee bitter, also like my music. I like to consume, create, combine and learn as much as I can in the process - which I do mostly on the go.
 
