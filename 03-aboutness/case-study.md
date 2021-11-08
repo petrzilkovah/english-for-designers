@@ -2,6 +2,7 @@
 - (very busy) February 2020
 - Design of a whole magazine (from layout to type to cover to illustration)
 - Hana Petržílková
+
 ## Magazine making from 0 to 100 (or 50) in a month.
 This design project was completely accidental on my part. It concerns VŠKK students magazine (at the time I didn't even know we have a magazine). The editorial office lost the graphic designer and was now looking for a designer who would help them with the newest issue (VERY quickly). 
 
