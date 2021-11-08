@@ -23,6 +23,6 @@ When we concluded, that we wanted to use illustrations, I was thrilled. Finally 
 ![Povstalec výtisk](img/)
 The moment I finished designing, consulting and adjusting details, it was time for proofreading. Which brought more adjusting. Which brought more proofreading. And more adjusting... And when there was no more proofreading or adjusting, the work was done. Ready to be printed and distributed. 
 
-![The whole magazine to view](img/)
+[The whole magazine to view](https://www.vskk.cz/cz/wp-content/uploads/sites/2/2020/04/povstalec1.final_.web_.pdf)
 
 After that, we published a few more issues of Povstalec. With each one gaining new skills and experience. Right now we are working on better promotion and online presentation and accessibility - there is still a (big) room for improvement.
