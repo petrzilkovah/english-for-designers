@@ -1,13 +1,20 @@
 # Povstalec - VŠKK students magazine
 ## Magazine making from 0 to 100 (or 50) in a month.
-This design project was completely accidential on my part, and I'm very grateful for it. It concerns VŠKK students magazine (at the time i didn't know we have a magazine), which lost the graphic designer last minute and the editorial office was looking for a designer who would help them put together the newest issue (VERY quickly). 
+This design project was completely accidental on my part. It concerns VŠKK students magazine (at the time I didn't know we have a magazine). The editorial office lost the graphic designer and was now looking for a designer who would help them with the newest issue (VERY quickly). 
 
-"Hey, that sounds like a great deal" - said me, a graphic design student unexperienced in magazine making, who was avoiding working in InDesign at any cost. So I set up a meeting with editor in chief and regardless of any concerns about my abilities, I started working.
-
+"Hey, that sounds like a great deal." - said me, a graphic design student inexperienced in magazine design, who was avoiding working in InDesign at any cost. So I set up a meeting with the editor in chief and regardless of any concerns about my abilities, I started working.
+## week #1
 ![Povstalec starter point](img/povstalec1.png)
+Since the editorial office consists only of literature students, all the design choices and technical processing are now my responsibility. Also, I can't follow the layout of the last published issue. There are too many problems and elements the editorial office isn't satisfied with. So what do I do?
 
-Since the editorial office of the magazine consist exclusively of literature students, all of the design choices and technical processing is now laying on my shoulders. Also, I can't simply follow the layout of the last published issue, because there were too many problems and things the editorial office wasn't satisfied with (such as readability, color scheme, layout, use of photos...). So I consulted with my teachers and little by little begun to creating the magazine from scratch. 
+Well, I consulted with my teachers over and over and little by little began to create the magazine from scratch. **Goal?** To create a magazine with a clean and simple (but not dull) design.
 
-![Povstalec grid](img/)
+## week #2
+![Povstalec grid](img/povstalec2.png)
+Time was tight and you can't always wait for your designer to learn how to use the grid correctly. Especially when they already have to figure out basic layouts, type and how to even use InDesign tools. **Priorities.** 
 
-Time was tight and you can't always wait for your designer to learn how to use grid correctly. Especially when they already have to figure out basic layouts, type and how to even use InDesign tools. **Priorities.** 
+It took a bit of organizing to lay out all the articles and photos and set up basic pagination. Then it was time to choose a nice serif font for text and contrasting font for headlines, one which is easy to use as well. Along with that, we came up with a strict colour scheme - bright red and dark blue - which helped to keep our magazine put together.
+
+## week #3
+![Povstalec ilustrace](img/)
+When we came to the conclusion, that we wanted to use illustrations, I was thrilled. Finally something I know how to do. The lineart style of illustration, following our color scheme played nicely with the mood of the magazine.
