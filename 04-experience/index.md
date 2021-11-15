@@ -2,7 +2,7 @@
 petrzilkovah@email.cz | +420 718 165 575
 
 ##### *Experience*
-___
+---
 ## Graphic designer
 **Kreativní Kancl | 2020–present**
 
@@ -88,4 +88,4 @@ Figma<br>
 Markdown<br>
 Github
 
-[DOWNLOAD CV (PDF)](pdf/cv-21-11-hpet.pdf)
+[DOWNLOAD CV (PDF)](pdf/)
