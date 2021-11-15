@@ -15,14 +15,14 @@ Involved in many aspects of the creative process, including briefing with client
 - illustration
 - DTP 
 
-## Publication design (Povstalec) [Case study](https://petrzilkovah.github.io/english-for-designers/03-aboutness/case-study.html)
+## Publication design (*Povstalec*) [Case study](https://petrzilkovah.github.io/english-for-designers/03-aboutness/case-study.html)
 **Voluntary work | 2020–present**
 
 Graphic design, typesetting, illustration and DTP
 
 Redesigned school magazine led by literary students at our university. Now continue to work on the publication, providing basic typesetting, illustrations, photo processing and pre-printing preparation.
 
-## Publication design (Face to face)
+## Publication design (*Face to face*)
 **Freelance (?) | 2019–2021**
 
 Graphic design, typesetting, DTP and accompanying material 
@@ -35,6 +35,9 @@ ___
 - Designing print materials for a conference (brochure, nametags and certificate of participation) 
 - Designing worksheets for high school students
 
+##### *other work experience*
+___
+
 ### Beauty consultant
 **part-time, Yves Rocher | 2017–2020**
 
@@ -42,8 +45,8 @@ In-person consulting with clients and product promotion, shop window arranging, 
 
 ##### *Education*
 ___
-## VŠKK (Vysoká škola Kreativní komunikace)
-**Bachelor of Arts - BA, Graphic and Media Design | 2022**
+## Graphic and Media Design, BcA.
+**VŠKK | Prague | 2022**
 
 Absolved subjects: Digital design, Typography,  Graphic and Media Design, Specifics of the advertising industry, Digital picture processing, Culture of written and spoken language, Media sociology and psychology, History of Art and Graphic design, Drawing class
 
@@ -52,8 +55,8 @@ Absolved subjects: Digital design, Typography,  Graphic and Media Design, Specif
 
 *output:* Poster and theatre program for one of the performances, PF and flyer for another literary event. 
 
-## SŠ DUKE Náhorní 
-**Graphic design specialized Highschool | 2019**
+## Graphic design specialized Highschool 
+**SŠ DUKE Náhorní | Prague | 2019**
 
 Got experience with Photography, Identity and branding design, basics of 3D modelling (cinema 4d), Frame animation, Calligraphy, Hand printing techniques (screen printing, gravure printing, linocut), Painting
 
@@ -65,7 +68,7 @@ Got experience with Photography, Identity and branding design, basics of 3D mode
 ___
 Ranked among the top 20. in a poster contest *Moment of Courage* (Struggle for Freedom and Democracy Day themed), hosted by Skautský Institut in Prague. 
 
-##### *Skills*
+##### *Skills & Tools*
 ___
 Typography<br>
 Typesetting<br>
@@ -80,10 +83,9 @@ Basic coding (HTML, CSS)<br>
 Illustration<br>
 Frame animation<br>
 
-##### *Tools*
-___
 Adobe Ai, Ps, Id<br>
 Figma<br>
 Markdown<br>
+Github
 
-[DOWNLOAD CV (PDF)]()
+[DOWNLOAD CV (PDF)](pdf/cv-21-11-hpet.pdf)
