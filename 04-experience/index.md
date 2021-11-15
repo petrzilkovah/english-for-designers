@@ -88,4 +88,4 @@ Figma<br>
 Markdown<br>
 Github
 
-[DOWNLOAD CV (PDF)](pdf/)
+[DOWNLOAD CV (PDF)](pdf/cv-21-11-hpet.pdf)
