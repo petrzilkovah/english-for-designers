@@ -15,7 +15,7 @@ Involved in many aspects of the creative process, including briefing with client
 - illustration
 - DTP 
 
-## Publication design (Povstalec) [Case study]()
+## Publication design (Povstalec) [Case study](https://petrzilkovah.github.io/english-for-designers/03-aboutness/case-study.html)
 **Voluntary work | 2020–present**
 
 Graphic design, typesetting, illustration and DTP
@@ -31,9 +31,9 @@ Worked with a collection of students’ texts inspired by WWII witness’ storie
 
 ##### *smaller projects*
 ___
-**- Logo design for a book project**
-**- Designing print materials for a conference** (brochure, nametags and certificate of participation) 
-**- Designing worksheets for high school students**
+- Logo design for a book project
+- Designing print materials for a conference (brochure, nametags and certificate of participation) 
+- Designing worksheets for high school students
 
 ### Beauty consultant
 **part-time, Yves Rocher | 2017–2020**
@@ -67,32 +67,23 @@ Ranked among the top 20. in a poster contest *Moment of Courage* (Struggle for F
 
 ##### *Skills*
 ___
-Typography
-
-Typesetting
-
-Collaboration/teamwork
-
-Presentation
-
-Writing
-
-Key visuals
-
-Social media content creating
-
-Wireframes and prototyping
-
-Basic coding (HTML, CSS)
-
-Illustration
-
-Frame animation
+Typography<br>
+Typesetting<br>
+Collaboration/teamwork<br>
+Presentation<br>
+Writing<br>
+Key visuals<br>
+Social media content creating<br>
+Brand identity<br>
+Wireframes and prototyping<br>
+Basic coding (HTML, CSS)<br>
+Illustration<br>
+Frame animation<br>
 
 ##### *Tools*
 ___
-Adobe Ai, Ps, Id
+Adobe Ai, Ps, Id<br>
+Figma<br>
+Markdown<br>
 
-Figma
-
-Markdown
+[DOWNLOAD CV (PDF)]()
