@@ -6,7 +6,7 @@ petrzilkovah@email.cz | [linkedin](https://www.linkedin.com/in/hana-petržílkov
 ## Graphic designer
 **Kreativní Kancl | 2020–present**
 
-Involved in many aspects of the creative process, including briefing with clients, presentations and collaborating with people from other focus fields. Participates in creating content ideas as well as designing them and got experience in creating means such like:
+Involved in many aspects of the creative process, including briefing with clients, presentations and collaborating with people from other focus fields. Participates in creating content ideas as well as designing them and got experience in creating means such as:
 
 - social media content design
 - marketing and advertising design
@@ -16,7 +16,7 @@ Involved in many aspects of the creative process, including briefing with client
 - DTP 
 
 ## Publication design (*Povstalec*) [Case study](https://petrzilkovah.github.io/english-for-designers/03-aboutness/case-study.html)
-**Voluntary work | 2020–present**
+**Pro bono/VŠKK | 2020–present**
 
 Graphic design, typesetting, illustration and DTP
 
