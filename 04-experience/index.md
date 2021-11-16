@@ -84,6 +84,7 @@ Illustration<br>
 Frame animation<br>
 
 Adobe Ai, Ps, Id<br>
+Paint Tool SAI<br>
 Figma<br>
 Markdown<br>
 Git Hub
