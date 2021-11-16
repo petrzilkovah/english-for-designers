@@ -1,5 +1,5 @@
 ## Hana Petržílková
-petrzilkovah@email.cz | +420 718 165 575
+petrzilkovah@email.cz | [linkedin](https://www.linkedin.com/in/hana-petržílková-19a094226/) | +420 718 165 575 
 
 ##### *Experience*
 ---
