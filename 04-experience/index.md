@@ -86,6 +86,6 @@ Frame animation<br>
 Adobe Ai, Ps, Id<br>
 Figma<br>
 Markdown<br>
-Github
+Git Hub
 
 [DOWNLOAD CV (PDF)](pdf/cv-21-11-hpet.pdf)
