@@ -4,7 +4,7 @@ petrzilkovah@email.cz | [linkedin](https://www.linkedin.com/in/hana-petržílkov
 ##### *Experience*
 ---
 ## Graphic designer
-**Kreativní Kancl | 2020–present**
+**part-time, Kreativní Kancl | 2020–present**
 
 Involved in many aspects of the creative process, including briefing with clients, presentations and collaborating with people from other focus fields. Participates in creating content ideas as well as designing them and got experience in creating means such as:
 
@@ -16,16 +16,16 @@ Involved in many aspects of the creative process, including briefing with client
 - DTP 
 
 ## Publication design (*Povstalec*) [Case study](https://petrzilkovah.github.io/english-for-designers/03-aboutness/case-study.html)
-**Pro bono/VŠKK | 2020–present**
+**Students project, VŠKK | 2020–present**
 
-Graphic design, typesetting, illustration and DTP
+Graphic design, typesetting, illustration and pre-printing preparation
 
 Redesigned school magazine led by literary students at our university. Now continue to work on the publication, providing basic typesetting, illustrations, photo processing and pre-printing preparation.
 
 ## Publication design (*Face to face*)
 **Freelance (?) | 2019–2021**
 
-Graphic design, typesetting, DTP and accompanying material 
+Graphic design, typesetting, pre-printing preparation
 
 Worked with a collection of students’ texts inspired by WWII witness’ stories and designed them into a publication. Then prepared the same data anew when the publication was translated to the English language. Besides typesetting, I worked with period and present-day photos.
 
@@ -87,6 +87,7 @@ Adobe Ai, Ps, Id<br>
 Paint Tool SAI<br>
 Figma<br>
 Markdown<br>
-Git Hub
+Git Hub<br>
+Cinema 4D
 
 [DOWNLOAD CV (PDF)](pdf/cv-21-11-hpet.pdf)
