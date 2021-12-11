@@ -1,17 +1,17 @@
 # Impression
 
-## My TOP 3 projects (...sort of)
+## Work by Hana Petržíková
 
-![title slide](img/presentation-title-slide.png)
+![title slide](img/)
 
-Introducing a few of my favourite projects - which are not at all big and fancy, but it's stuff I enjoyed working on, as a person who likes various types of illustration and working with text in InDesign.
+Introducing things i do - which are not at all big and fancy, but it's stuff I like and enjoy.
 
-- [View presentation](pdf/ajovt-impression.pdf)
+- [View presentation]()
 
-## (actually playable) gif
-![a gif with a cat falling of a platform, transforming into a fidget spinner](gif/meow.gif)
 
 ### Notes
-1. *electricity storage; myths in energetics; on development in accumulation;* Digital illustrations, which we use to promote podcast about energetics on instagram. Adobe Illustrator 
-2. A series of worksheets for kids in an elementary school, dealing with multiple topics and subjects (advertisment, fact-checking information in media and so on). Adobe inDesign
-3. A short, simple animation of a cat, digitally hand drawn. Adobe Photoshop
+1. 
+2.
+3. 
+4.
+5.
