@@ -6,7 +6,7 @@
 
 Introducing things i do - which are not at all big and fancy, but it's stuff I like and enjoy.
 
-- [View presentation]()
+- [View presentation](pdf/ajovt-impression.pdf)
 
 
 ### Notes
@@ -15,3 +15,4 @@ Introducing things i do - which are not at all big and fancy, but it's stuff I l
 3. 
 4.
 5.
+6.
