@@ -1,11 +1,11 @@
 ## about me
 
 
-### Hana Petržílková - a graphic designer striving to make things <br>happen through determination and happy coincidences.
+### Hana Petržílková - an earthling striving to make things <br>happen through determination and happy coincidences.
 
 - [Povstalec case study](case-study.md)
 
-![photo of me](img/mememe.gif)
+![photo of me](img/)
 
 
 
