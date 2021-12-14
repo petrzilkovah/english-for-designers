@@ -6,4 +6,4 @@ Five things I learned this semester:
 2. Got a hang of markdown and actively use it's tools
 3. Gain more confidence in my writing
 4. Prioritize content above format
-5. …
+5. Why do I do design?
