@@ -7,3 +7,4 @@ Five things I learned this semester:
 3. Gain more confidence in my writing
 4. Prioritize content above format
 5. Why do I do design?
+6. Learn new tools for accessibility
