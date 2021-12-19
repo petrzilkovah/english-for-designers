@@ -15,10 +15,10 @@ I worked on several printed matters, including posters, book and magazine layout
 - cv link
 
 # WORK
-- Students magazine Povstalec [case study](/03-aboutness/case-study.md)
-- [impression](/02-impression/)
-- [character a desc](/01-character-description)
-- [voice & tone](05-voice-tone/)
+- Students magazine Povstalec [case study](english-for-designers/03-aboutness/case-study.md)
+- [impression](english-for-designers/02-impression/)
+- [character a desc](english-for-designers/01-character-description)
+- [voice & tone](english-for-designers/05-voice-tone/)
 - design story
 
-[*extra takeaways*](extra-takeaways)
+[*extra takeaways*](english-for-designers/extra-takeaways)
