@@ -1,3 +1,4 @@
+![homepage](07-homepage/homepage.gif)
 
 - [about me](03-aboutness/index.md)
 
