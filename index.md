@@ -20,3 +20,5 @@ I worked on several printed matters, including posters, book and magazine layout
 - [character a desc](/01-character-description)
 - [voice & tone](05-voice-tone/)
 - design story
+
+[*extra takeaways*](extra-takeaways)
