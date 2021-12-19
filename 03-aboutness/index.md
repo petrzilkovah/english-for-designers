@@ -1,17 +1,15 @@
 ## about me
 
-
-### Hana Petržílková - an earthling striving to make things <br>happen through determination and happy coincidences.
+1. Tried to write a bio
+2. Had a breakdown ![sparkles](img/sparkly.gif)
+3. Bon apetit
 
 
 ![photo of me](img/mememe.gif)
 
-
+*Hana Petržílková - an earthling striving to make things <br>happen through determination and happy coincidences.*
 
 ## my story
-1. Tried to write a bio
-2. Had a breakdown 
-3. Bon apetit
 
 I'm your average diversity-in-everything enjoyer. I like my coffee sugary and creamy, like my music, and I like my coffee bitter, also like my music. I like to consume, create, combine and learn as much as I can in the process - which I do mostly on the go.
 
