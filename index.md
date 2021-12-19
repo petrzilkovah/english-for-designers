@@ -12,7 +12,7 @@ Given my artistic background, I lean towards illustration and not so strict appr
 
 I worked on several printed matters, including posters, book and magazine layouts, but I also touched upon online banners, logos, social media content and simple animation. Either way, don't you worry I wouldn't know a way to do something, I'm experienced in making my own ways.
 # CV
-- cv link
+- [cv link](04/experience/index.md)
 
 # WORK
 - Students magazine Povstalec [case study](/03-aboutness/case-study.md)
