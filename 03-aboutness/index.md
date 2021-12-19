@@ -1,7 +1,7 @@
-## about me
+## about me 
 
 1. Tried to write a bio
-2. Had a breakdown ![sparkles](img/sparkly.gif)
+2. Had a breakdown 
 3. Bon apetit
 
 
