@@ -15,14 +15,14 @@ Involved in many aspects of the creative process, including briefing with client
 - illustration
 - DTP 
 
-## Publication design (*Povstalec*) [Case study](https://petrzilkovah.github.io/english-for-designers/03-aboutness/case-study.html)
+## Publication designer (*Povstalec*) [Case study](https://petrzilkovah.github.io/english-for-designers/03-aboutness/case-study.html)
 **Students project, VŠKK | 2020–present**
 
 Graphic design, typesetting, illustration and pre-printing preparation
 
 Redesigned school magazine led by literary students at our university. Now continue to work on the publication, providing basic typesetting, illustrations, photo processing and pre-printing preparation.
 
-## Publication design (*Face to face*)
+## Publication designer (*Face to face*)
 **Freelance (?) | 2019–2021**
 
 Graphic design, typesetting, pre-printing preparation
@@ -76,7 +76,7 @@ Collaboration/teamwork<br>
 Presentation<br>
 Writing<br>
 Key visuals<br>
-Social media content creating<br>
+Social media content creation<br>
 Brand identity<br>
 Wireframes and prototyping<br>
 Basic coding (HTML, CSS)<br>
@@ -88,6 +88,7 @@ Paint Tool SAI<br>
 Figma<br>
 Markdown<br>
 Git Hub<br>
-Cinema 4D
+Cinema 4D<br>
+Blender<br>
 
 [DOWNLOAD CV (PDF)](pdf/cv-21-11-hpet(revised).pdf)
