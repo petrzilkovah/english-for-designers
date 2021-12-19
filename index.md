@@ -1,6 +1,7 @@
 # Hana Petržílková
 an earthling striving to make things
 happen through determination and happy coincidences.
+![photo of me](img/)
 # About me
 1. Tried to write a bio
 2. Had a breakdown
