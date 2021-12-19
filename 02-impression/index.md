@@ -1,8 +1,8 @@
 # impression
 
-## Work by Hana Petržíková
+## work by Hana Petržíková
 
-![title slide](img/)
+![title slide](img/title-slide.jpg)
 
 Introducing things i do - which are not at all big and fancy, but it's stuff I like and enjoy.
 
