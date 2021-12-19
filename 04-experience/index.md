@@ -81,6 +81,7 @@ Brand identity<br>
 Wireframes and prototyping<br>
 Basic coding (HTML, CSS)<br>
 Illustration<br>
+Layouts<br>
 Frame animation<br>
 
 Adobe Ai, Ps, Id<br>
