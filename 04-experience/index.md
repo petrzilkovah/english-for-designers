@@ -13,7 +13,7 @@ Involved in many aspects of the creative process, including briefing with client
 - key visuals
 - frame animation
 - illustration
-- DTP 
+- pre-press 
 
 ## Publication designer (*Povstalec*) 
 **Students project, VŠKK | 2020–present**
@@ -22,6 +22,7 @@ Graphic design, typesetting, illustration and pre-printing preparation
 
 Redesigned school magazine led by literary students at our university. Now continue to work on the publication, providing basic typesetting, illustrations, photo processing and pre-printing preparation.
 - [Case study](https://petrzilkovah.github.io/english-for-designers/03-aboutness/case-study.html)
+
 ## Publication designer (*Face to face*)
 **Freelance (?) | 2019–2021**
 
