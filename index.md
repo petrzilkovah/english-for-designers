@@ -10,6 +10,6 @@
 - [impression](/02-impression/index.md)
 - Students magazine Povstalec<br> [case study](/03-aboutness/case-study.md)
 - [voice & tone](/05-voice-tone/index.md)
-- [design story](https://www.figma.com/file/0LMrxJwYe4SN6DQIU4WlR8/Untitled?node-id=38%3A2) (wip)
+- [design story]() / [prep](https://www.notion.so/Presentation-prep-ideas-bad904d599aa45e39f40585ea9fe3c86)
 
 [*extra takeaways*](/extra-takeaways/index.md)
