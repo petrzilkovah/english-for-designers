@@ -35,13 +35,15 @@ Redesigning a students' magazine Povstalec N°2 and creating its functional digi
 
 ## Key Points
 
-<!-- Key points; aim for **30–60 words** each. -->
 
 1. Background/importance of topic:
-2. Purpose/hypothesis (thesis or statement of problem):
+  - I've already designed a few issues of the magazine – all printed versions. There's a need for a digital version now, 1. for a better representation of the school and 2. for enriching my skill set as a designer.
+2. Purpose/hypothesis (thesis or statement of problem): 
+  - The students' magazine is now only published in a printed version. That's is not adequate for the school standards and thus does not fulfil its potential.
 3. Research — design/methodology/approach including procedures/data/observations:
-4. Findings (highlight outcome of research):
-5. Conclusions (significance/success of study to theory/practical/society):
+  - Studying different students' magazines and online magazines in general. How are they designed, published and what technology are they using. I'm asking for observations and ideas of other students who are my target group – usually by verbal dialogue. Then figuring out their habits in consuming online content and taking them into account.
+5. Findings (highlight outcome of research):
+6. Conclusions (significance/success of study to theory/practical/society):
 
 ## References
 
