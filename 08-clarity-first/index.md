@@ -6,13 +6,12 @@
 - [Key Points](#key-points)
 - [References](#references)
 
-# Title (of thesis project)
+# Graphic design of a students' magazine for an online environment
 
-<!-- Please limit the title to **70 characters** or fewer. -->
 
 ## Summary
 
-A brief description or summary of your thesis project in **75 words** or fewer.
+Redesigning a students' magazine Povstalec N°2 and creating its functional digital version. Designing a flexible layout for both versions to ease the production. Exploring trends in online publishing, with a focus on the usage of interactive elements for better readability. Suggesting communication strategy and means of promotion, such as social media content.
 
 <!-- Disclosure widget, HTML in Markdown -->
 
@@ -23,16 +22,16 @@ A brief description or summary of your thesis project in **75 words** or fewer.
 
 ## Keywords
 
-- **Keyword**
-  - Optional definition/description in **125 characters** or fewer.
-- **Keyword**
+- **Publication design**
   - …
-- **Keyword**
+- **Digital publishing**
+  - how is online different from print in publishing
+- **Students magazines**
   - …
-- **Keyword**
-  - …
-- **Keyword**
-  - …
+- **Online environment**
+  - online content consumption habits, readability standards 
+- **Interactivity(?)**
+  - usage of interactive elements for online publishing 
 
 ## Key Points
 
