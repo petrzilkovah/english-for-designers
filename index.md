@@ -10,6 +10,7 @@
 - [impression](/02-impression/index.md)
 - Students magazine Povstalec<br> [case study](/03-aboutness/case-study.md)
 - [voice & tone](/05-voice-tone/index.md)
-- [design story]() / [prep](https://www.notion.so/Presentation-prep-ideas-bad904d599aa45e39f40585ea9fe3c86)
+- [design story](06-storytelling/index.md) / [prep](https://www.notion.so/Presentation-prep-ideas-bad904d599aa45e39f40585ea9fe3c86)
+- [thesis](/08-clarity-first/index.md)
 
 [*extra takeaways*](/extra-takeaways/index.md)
