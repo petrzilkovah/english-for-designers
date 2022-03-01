@@ -4,7 +4,6 @@
 - [Mind Map](#mind-map)
 - [Keywords](#keywords)
 - [Key Points](#key-points)
-- [References](#references)
 
 # Graphic design of a students' magazine for an online environment
 
@@ -45,10 +44,4 @@ Redesigning a students' magazine Povstalec N°2 and creating its functional digi
 5. Findings (highlight outcome of research):
 6. Conclusions (significance/success of study to theory/practical/society):
 
-## References
 
-<!-- Consider reference style for textual works, data sets, and audiovisual and online media. -->
-
-- [Writing and Developing a Thesis](https://goinswriter.com/writing-a-thesis-2/)
-- …
-- …
