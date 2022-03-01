@@ -2,7 +2,7 @@
 
 by Hana Petržílková
 
-[go to the webpage →]()
+[go to the webpage →](https://readymag.com/3426939)
 
 ### let me tempt you to go and read it:
 
