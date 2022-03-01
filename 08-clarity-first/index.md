@@ -48,11 +48,14 @@ Redesigning a students' magazine Povstalec N°2 and creating its functional digi
 ## PAR
 
 **THE PROBLEM**
-Student's magazine I design is now only published in printed version, which is a shame because it's not fulfilling its potential. (as a students' magazine published at "creative communication" university)
+
+Students' magazine I design is now only published in printed version, which is a shame because it's not fulfilling its potential. (as a students' magazine published at "creative communication" university)
 
 **THE ACTIONS**
+
 I looked up other students' magazines and online magazines in general, what technology they use, how they are designed etc. I also dived a little more into online publishing and also talking with other student at our school - to see how they view our magazine and what they would change.
 
 **SUCCESS?**
+
 *... well hopefully*
 the best outcome would be that more students would read and maybe even contribute to our magazine - and for me to gain more understanding and experience in online publishing, because I think it's cool to know (and useful).
