@@ -11,7 +11,7 @@
 
 ## Summary
 
-Redesigning a students' magazine Povstalec N°2 and creating its functional digital version. Designing a flexible layout for both versions to ease the production. Exploring trends in online publishing, with a focus on the usage of interactive elements for better readability. Suggesting communication strategy and means of promotion, such as social media content.
+Redesigning a students' magazine Povstalec N°2 and creating its functional digital version. Designing a flexible layout for both versions to ease the production. Exploring trends in online publishing, with a focus on the usage of interactive elements for better readability. Suggesting communication strategy and means of promotion.
 
 <!-- Disclosure widget, HTML in Markdown -->
 
@@ -64,3 +64,5 @@ I looked up other students' magazines and online magazines in general, what tech
 
 *... well hopefully*
 the best outcome would be that more students would read and maybe even contribute to our magazine - and for me to gain more understanding and experience in online publishing, because I think it's cool to know (and useful).
+
+
