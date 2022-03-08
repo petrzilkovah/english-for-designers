@@ -42,12 +42,13 @@ Redesigning a students' magazine Povstalec N°2 and creating its functional digi
 2. Purpose/hypothesis (thesis or statement of problem): 
     - The students' magazine is now only published in a printed version. That's is not adequate for the school standards (and today's trends) and thus does not fulfil its potential.
 3. Research — design/methodology/approach including procedures/data/observations:
-    - Studying different students' magazines and online magazines in general. How are they designed, published and what technology are they using. I'm asking for observations and ideas of other students who are my target group – usually by verbal dialogue. Then figuring out their habits in consuming online content and taking them into account.
+    - Studying different students' magazines and online magazines in general. How are they designed, published and what technology are they using. I'm asking for observations and ideas of other students who are my target group – usually by verbal dialogue. Then figuring out their habits in consuming online content and taking them into account. Also put into use my previous experience working on the publication.
 5. Findings (highlight outcome of research): 
     - There aren't many students magazines (which would be actually run by students) in czech republic, and the few which exist aren't adjusted for digital env.
     - The results of questionnaire (for now) shows, that 50% of students who answered would still rather pick up a printed version of magazine – despite the fact that very few of them choose "print" as they preferable media for consuming content overall.
 8. Conclusions (significance/success of study to theory/practical/society):
-    - not yet reched but I'm approaching it in outrageous speed.
+    - not yet reached but I'm approaching it in outrageous speed.
+    - (but generally, to try and offer some type of template for publishing digital magazines)
 
 ## PAR
 
