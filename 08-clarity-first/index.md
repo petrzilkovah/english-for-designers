@@ -1,7 +1,7 @@
 <!-- Table of Contents, in-page navigation -->
 
 - [Summary](#summary)
-- [Mind Map](<details>)
+- [Mind Map](#mind-map)
 - [Keywords](#keywords)
 - [Key Points](#key-points)
 - [PAR](#par)
@@ -15,7 +15,7 @@ Redesigning a students' magazine Povstalec N°2 and creating its functional digi
 
 
 <details>
-  <summary><b>Mind Map (Maze)</b></summary>
+  <summary><b>Mind Map</b></summary>
   <img alt="A thesis topic made into mind map." src="./img/mind-maze.png">
 </details>
 
