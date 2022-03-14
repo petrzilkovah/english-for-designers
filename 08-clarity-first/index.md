@@ -65,3 +65,5 @@ I looked up other students' magazines and online magazines in general, what tech
 the best outcome would be that more students would read and maybe even contribute to our magazine - and for me to gain more understanding and experience in online publishing, because I think it's cool to know (and useful).
 
 
+
+
