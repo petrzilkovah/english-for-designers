@@ -1,7 +1,7 @@
 <!-- Table of Contents, in-page navigation -->
 
 - [Summary](#summary)
-- [Mind Map](#mind-map)
+- [Mind Map](<details>)
 - [Keywords](#keywords)
 - [Key Points](#key-points)
 - [PAR](#par)
@@ -13,11 +13,10 @@
 
 Redesigning a students' magazine Povstalec N°2 and creating its functional digital version. Designing a flexible layout for both versions to ease the production. Exploring trends in online publishing, with a focus on the usage of interactive elements for better readability. Suggesting communication strategy and means of promotion.
 
-<!-- Disclosure widget, HTML in Markdown -->
 
 <details>
-  <summary><b>Mind Map</b></summary>
-  <img alt="Gray box placeholder image, for position only." src="./img/thesis-mind-map.png">
+  <summary><b>Mind Map (Maze)</b></summary>
+  <img alt="A thesis topic made into mind map." src="./img/mind-maze.png">
 </details>
 
 ## Keywords
