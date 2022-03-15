@@ -14,10 +14,8 @@
 Redesigning a students' magazine Povstalec N°2 and creating its functional digital version. Designing a flexible layout for both versions to ease the production. Exploring trends in online publishing, with a focus on the usage of interactive elements for better readability. Suggesting communication strategy and means of promotion.
 
 
-<details>
-  <summary><b>Mind Map</b></summary>
+## Mind Map
   <img alt="A thesis topic made into mind map." src="./img/mind-maze.png">
-</details>
 
 ## Keywords
 
