@@ -10,4 +10,3 @@ Publication design, Digital publishing, Students' magazines, Interactivity(?)
 
 ## Presentation
 
-<-- Add a link to your presentation or add presentation content in Markdown here. -->
