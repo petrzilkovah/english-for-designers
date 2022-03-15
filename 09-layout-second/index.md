@@ -1,5 +1,7 @@
 # Pulishing students' magazine for print and web
 
+Print and online publishing of students' magazine
+
 ## Abstract
 
 A brief statement summarizing your thesis, based on language from PAR statement and key points from Clarity First in **75 words** or fewer. Remember to use academic voice.
