@@ -1,7 +1,7 @@
 # Pulishing students' magazine for print and web
 
 ## Keywords 	
-*Publication design, Digital publishing, Magazine design, Student magazine*
+*publication design, digital publishing, magazine design, student magazine*
 
 ### Motivation/Problem/Opportunity
 I've designed a few issues of the magazine – all printed versions. There's a need for a digital version now, as it doesn't fulfil its potential in its current state and doesn't represent the university or its students properly.
