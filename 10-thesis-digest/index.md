@@ -1,5 +1,9 @@
 # Pulishing students' magazine for print and web
 
+- [Keywords](#keywords)
+- [Draft](#draft)
+- [Abstract](#abstract)
+
 ## Keywords 	
 *publication design, digital publishing, magazine design, student magazine*
 
