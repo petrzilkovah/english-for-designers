@@ -35,6 +35,7 @@ There is no standardised practice in digital publishing, which would make digita
 The goal is an easy production method of print and digital magazines, in which none is superior to the other. Also, in which the digital version is not lacking in usability. Trying to make the first step to improve digital publishing will make digital magazines more accessible. Moreover, it will attract readers who already appreciate the convenience of digital media. For others, it can present a new way of consuming content. This has the potential to create more opportunities for publishing houses, as it keeps up with today's technologies and trends.
 
 ## Abstract
+...
 ## References
 - [The future of digital magazine publishing](https://content.iospress.com/articles/information-services-and-use/isu661)
 - [LIFE AFTER PRINT](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.9326&rep=rep1&type=pdf)
