@@ -3,7 +3,7 @@
 - [Keywords](#keywords)
 - [Draft](#draft)
 - [Abstract](#abstract)
-- [References](#references)
+- [Abstract inspo](#abstract-inspo)
 
 ## Keywords 	
 *publication design, digital publishing, magazine design, student magazine*
@@ -36,6 +36,6 @@ The goal is an easy production method of print and digital magazines, in which n
 
 ## Abstract
 ...
-## References
+## Abstract inspo
 - [The future of digital magazine publishing](https://content.iospress.com/articles/information-services-and-use/isu661)
 - [LIFE AFTER PRINT](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.9326&rep=rep1&type=pdf)
