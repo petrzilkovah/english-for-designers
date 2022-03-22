@@ -1,4 +1,4 @@
-# Pulishing students' magazine for print and web
+# Publishing students' magazine for print and web
 
 / Print and online publishing of students' magazine
 
