@@ -2,7 +2,7 @@
 
 / Print and online publishing of students' magazine
 
-## Abstract
+## Abstract (not really, just copied summary)
 
 Redesigning a students’ magazine Povstalec N°2 and creating its functional digital version. Designing a flexible layout for both versions to ease the production. Exploring trends in online publishing, with a focus on the usage of interactive elements for better readability. Suggesting communication strategy and means of promotion.
 
