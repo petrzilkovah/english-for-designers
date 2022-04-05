@@ -40,7 +40,14 @@ The goal is an easy production method of print and digital magazines, in which n
 
 
 ## Abstract
-...
+
+The aim of this thesis is to explore the current state of digital publishing, and the publishing of student magazines in general. Then applying the acquired knowledge in designing a digital version of the VŠKK student magazine Povstalec N°2. Since the aim is not to overthrow the print, but rather to equalize both formats, this requires to redesign the entire publication with a focus on unifying the production process. There is still a lot to improve in digital publishing, since there is no standard practice on how to publish magazines online, efficiently. 
+
+Because online platforms seem in many ways preferable for consuming content today, online magazines have the potential to become more appealing to the readers, by optimizing the digital magazine reading experience. Utilizing interactive elements, which are already staples in digital design, and improving readability, may achieve that. 
+
+Trying to make the first step to improve digital publishing will make magazines more accessible. Moreover, it will attract readers who already appreciate the convenience of digital media. Creating the digital version of the VŠKK students magazine is also offering the students a new platform for presenting their work, allowing a better representation of the university itself.
+
+
 ## Abstract inspo
 - [The future of digital magazine publishing](https://content.iospress.com/articles/information-services-and-use/isu661)
 - [LIFE AFTER PRINT](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.9326&rep=rep1&type=pdf)
