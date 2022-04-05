@@ -37,7 +37,7 @@ The goal is an easy production method of print and digital magazines, in which n
 (unifying, in-house publishing)
 
 ## Main text
-
+...
 
 ## Abstract
 
