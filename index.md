@@ -13,6 +13,7 @@
 - [design story](06-storytelling/index.md) / [prep](https://www.notion.so/Presentation-prep-ideas-bad904d599aa45e39f40585ea9fe3c86)
 - [clarity first](/08-clarity-first/index.md)
 - [layout second](/09-layout-second/index.md)
-- [thesis digest](10-thesis-digest/index.md)
+- [thesis digest](/10-thesis-digest/index.md)
+- [aaaaaand final presentation!](/11-presentation/index.md)
 
 [*extra takeaways*](/extra-takeaways/index.md)
