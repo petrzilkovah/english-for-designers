@@ -5,7 +5,7 @@
 # cv
 - [cv access here](04-experience/index.md)
 
-# work
+# course work
 - [character and desc.](/01-character-description/index.md)
 - [impression](/02-impression/index.md)
 - [case study](/03-aboutness/case-study.md) Students magazine Povstalec
