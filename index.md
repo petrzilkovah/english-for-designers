@@ -16,4 +16,4 @@
 - [thesis digest](/10-thesis-digest/index.md)
 - [aaaaaand final presentation!](/11-presentation/index.md)
 
-[*extra takeaways*](/extra-takeaways/index.md)
+[*extra takeaways*](/extra-takeaways/index.md) and [*year review*](/year-review/index.md)
