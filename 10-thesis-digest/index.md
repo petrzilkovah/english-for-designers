@@ -46,8 +46,10 @@ Trying to make the first step to improve digital publishing will make magazines 
 
 ## Abstract ??
 
+(og english version)
 The aim of this thesis is to explore the current state of digital publishing, and the publishing of student magazines in general.  Then, applying this knowledge to designing print and digital versions of the student magazine Povstalec N°2. Focusing on unifying the production process for both formats, to ease the process. The results of the questionnaire show that online magazines have the potential to become more appealing to readers. Thus, optimising the digital magazine reading experience is a crucial step. Utilizing interactive elements and improving legibility may achieve that. Creating the digital version of the students' magazine is also offering the students a new platform for presenting their work. Moreover, allowing a better representation of the university itself.
 
+(my czech version – translated)
 The aim of this thesis is to re-design the printed version of the student magazine Povstalec N°2 and create its digital version. Focusing on unifying the production process for both formats, to ease the process. The theoretical part introduces publication design, then discusses the current state of digital publishing and student magazines in general. Based on the research in the theoretical part,  the practical part complements the work with questionnaire results and personal market analysis. Then presents a new visual style of the publication, including a technical solution for print and web. The outcome is a prototype of the digital version of the magazine, based on the visual style of a print version. Utilizing interactive elements and improving legibility allows for a better online reading experience.  
 
 
