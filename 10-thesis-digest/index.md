@@ -44,7 +44,7 @@ Because online platforms seem in many ways preferable for consuming content toda
 
 Trying to make the first step to improve digital publishing will make magazines more accessible. Moreover, it will attract readers who already appreciate the convenience of digital media. Creating the digital version of the VŠKK students magazine is also offering the students a new platform for presenting their work, allowing a better representation of the university itself.
 
-## Abstract ??
+## Abstract
 
 (og english version)
 
@@ -52,7 +52,7 @@ The aim of this thesis is to explore the current state of digital publishing, an
 
 (my czech version – translated)
 
-The aim of this thesis is to re-design the printed version of the student magazine Povstalec N°2 and create its digital version. Focusing on unifying the production process for both formats, to ease the process. The theoretical part introduces publication design, then discusses the current state of digital publishing and student magazines in general. Based on the research in the theoretical part,  the practical part complements the work with questionnaire results and personal market analysis. Then presents a new visual style of the publication, including a technical solution for print and web. The outcome is a prototype of the digital version of the magazine, based on the visual style of a print version. Utilizing interactive elements and improving legibility allows for a better online reading experience.  
+The aim of this thesis is to re-design the printed version of the student magazine Povstalec N°2 and create its digital version. Focusing on unifying the production process for both formats, to ease the process. The theoretical part introduces publication design, and then discusses the current state of digital publishing and student magazines in general. Based on research done in the theoretical part, the practical part complements the work with questionnaire results and personal market analysis. Then presents a new visual style of the publication, including a technical solution for print and web. The outcome is a prototype of the digital version of the magazine, based on the visual style of a print version. Utilizing interactive elements and improving legibility allows for a better online reading experience.  
 
 
 
