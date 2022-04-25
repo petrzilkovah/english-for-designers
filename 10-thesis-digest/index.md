@@ -54,6 +54,10 @@ The aim of this thesis is to explore the current state of digital publishing, an
 
 The aim of this thesis is to re-design the printed version of the student magazine Povstalec N°2 and create its digital version. Focusing on unifying the production process for both formats, to ease the process. The theoretical part introduces publication design, and then discusses the current state of digital publishing and student magazines in general. Based on research done in the theoretical part, the practical part complements the work with questionnaire results and personal market analysis. Then presents a new visual style of the publication, including a technical solution for print and web. The outcome is a prototype of the digital version of the magazine, based on the visual style of a print version. Utilizing interactive elements and improving legibility allows for a better online reading experience.  
 
+(the perfected)
+
+This paper examines the visual design process, publishing workflow, and marketing strategy of the VSKK (Vysoká Škola Kreativní Komunikace)  student magazine   *Povstalec N°2*. The theoretical part introduces the field of publication design, the current state of digital publishing, and an overview of student magazines in higher education. The practical part complements the theoretical background with local survey results and personal market analysis. Then presents a new, unified visual style and technical solution for print and web. The outcome of the work presented in this paper proposes a digital magazine prototype that utilizes interactive elements and improved legibility for an enhanced reading experience. 
+
 
 
 ## Abstract inspo
