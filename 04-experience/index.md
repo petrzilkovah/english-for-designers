@@ -92,5 +92,6 @@ Markdown<br>
 Git Hub<br>
 Cinema 4D<br>
 Blender<br>
+Notion
 
 [DOWNLOAD CV (PDF)](pdf/cv-21-11-hpet(revised).pdf)
