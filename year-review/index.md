@@ -23,7 +23,7 @@ Storytelling for sure.
 
 5. What is something you accomplished this year that you are proud of?
 
-I showed my work in progress a little bit more and opened myself to feedback that way (it's more convenient to submit the work last minute, since then I do not have to/can't revise). And begin to writing more!
+I showed my work in progress a little bit more and opened myself to feedback that way (it's more convenient to submit the work last minute, since then I do not have to/can't revise). And writing more!
 
 6. What is one thing you learned about yourself this year?
 
