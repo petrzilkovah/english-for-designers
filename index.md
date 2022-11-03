@@ -17,3 +17,5 @@
 - [aaaaaand final presentation!](/11-presentation/index.md)
 
 [*extra takeaways*](/extra-takeaways/index.md) and [*year review*](/year-review/index.md)
+
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
